@@ -19,8 +19,10 @@ To counter the effect of the virus, vaccine needs to be distributed to all citie
 
 
 Virus Spread - Uninformed Search Agent
+
   Use uninformed search agent to find Virus spread prediction
   
 Vaccine Transportation - Informed Search Agent
+
   Use informed search agent to find best vaccine transportation way
 
